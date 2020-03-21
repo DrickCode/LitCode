@@ -1,0 +1,11 @@
+# MacOS
+.DS_Store
+
+# IDE setting
+.vscode
+
+# Compiled object file
+*.o
+
+# executables
+*.out

@@ -1,7 +1,7 @@
 # MacOS
 .DS_Store
 
-# IDE setting
+# IDE config
 .vscode
 
 # Compiled object file
